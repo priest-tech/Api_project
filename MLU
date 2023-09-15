@@ -1,0 +1,14 @@
+class Person {
+  id: int
+  name: string
+}
+
+class PersonViewSet {
+  list()
+  retrieve()
+  create()
+  update()
+  destroy()
+}
+
+Person --> PersonViewSet
