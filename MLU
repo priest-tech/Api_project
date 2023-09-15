@@ -12,3 +12,5 @@ class PersonViewSet {
 }
 
 Person --> PersonViewSet
+
+https://lucid.app/lucidchart/c64ded2f-2398-4249-b337-0a1e079f2b24/edit?viewport_loc=-96%2C468%2C2479%2C1256%2CHWEp-vi-RSFO&invitationId=inv_cbfc75e6-2580-4993-8eb5-330d54cb4bf2
